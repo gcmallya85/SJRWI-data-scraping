@@ -2,7 +2,7 @@ This file describes the water quality data extracted from http://wqis.ipfw.edu/c
 Author - Ganesh Mallya
 Created on - 08/26/2018
 Modified by -
-Modified on -
+Modified on - 08/27/2018
 Python script file - scrap_wq_data_SJRWI.py
 1) stations.csv
 This file contains station numbers, and corresponding name of the stations
